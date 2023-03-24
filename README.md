@@ -11,20 +11,35 @@ The dataset is from an ongoing cardiovascular study on residents of the town of 
 ## Attribute Information:
 
 **Sex**: male or female("M" or "F")
+
 **Age**: Age of the patient
+
 **Is_smoking**: whether or not the patient is a current smoker ("YES" or "NO")
+
 **Cigs Per Day**: the number of cigarettes that the person smoked on average in one day.
+
 **BP Meds**: whether or not the patient was on blood pressure medication 
+
 **Prevalent Stroke**: whether or not the patient had previously had a stroke 
+
 **Prevalent Hyp**: whether or not the patient was hypertensive
+
 **Diabetes**: whether or not the patient had diabetes 
+
 **Tot Chol**: total cholesterol level 
+
 **Sys BP**: systolic blood pressure 
+
 **Dia BP**: diastolic blood pressure
+
 **BMI**: Body Mass Index
+
 **Heart Rate**: heart rate
+
 **Glucose**: glucose level
+
 **Education**: education level of a person.
+
 **The 10-year risk of coronary heart disease (CHD)**(binary: “1”, means “Yes”, “0” means “No”): Informs us whether that person has a 10-year risk of CHD or not.
 
 ## Introduction:
