@@ -89,6 +89,12 @@ Characteristics of kNN
 * It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of   classification, it performs an action on the dataset.
 * KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much         similar to the new data.
 
+## Model Deployment:
+
+Deployed the model on streamlit cloud. 
+The link for the same [Streamlit app](https://shourya306-supervised-machine-learning-classificatio-app-daxohx.streamlit.app/)
+
+
 ## Conclusion:
 
 After implementing two models for the classification task I came to the conclusion that using KNN would provide fruitful results.
