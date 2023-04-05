@@ -94,6 +94,8 @@ Characteristics of kNN
 Deployed the model on streamlit cloud. 
 The link for the same [Streamlit app](https://shourya306-supervised-machine-learning-classificatio-app-daxohx.streamlit.app/)
 
+Link to Docker Image [Docker Image](https://hub.docker.com/repository/docker/shourya306/classification_project/general)
+
 
 ## Conclusion:
 
