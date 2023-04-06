@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="CHD_image.png" alt="CHD_image.png" width="200px" height="200px">
+  <img src="CHD_image.png" alt="CHD_image.png" width="400px" height="200px">
 </p>
 
 <h1 align="center"> Cardiovascular Risk Prediction </h1>
