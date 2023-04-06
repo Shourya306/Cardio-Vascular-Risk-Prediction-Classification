@@ -1,12 +1,20 @@
+<p align="center"> 
+  <img src="CHD_image.png" alt="CHD_image.png" width="200px" height="200px">
+</p>
+
 # Cardiovascular Risk Prediction
 
 ## Abstract:
 
 Healthcare is an inevitable task to be done in human life. Cardiovascular disease is a broad category for a range of diseases that are affecting heart and blood vessels. The early methods of forecasting cardiovascular diseases helped in making decisions about the changes to have occurred in high-risk patients which resulted in the reduction of their risks. The healthcare industry contains lots of medical data, therefore machine learning algorithms are required to make decisions effectively in the prediction of heart diseases.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Problem Statement:
 
 The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes. Each attribute is a potential risk factor. There are demographic, behavioural, and medical risk factors.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Attribute Information:
 
@@ -42,6 +50,8 @@ The dataset is from an ongoing cardiovascular study on residents of the town of 
 
 **The 10-year risk of coronary heart disease (CHD)**(binary: “1”, means “Yes”, “0” means “No”): Informs us whether that person has a 10-year risk of CHD or not.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Introduction:
 
 Heart disease is a catch-all phrase for a variety of conditions that affect the heart’s structure and how it works. Coronary heart disease is a type of heart disease where the arteries of the heart cannot deliver enough oxygen-rich blood to the heart. It is the leading cause of death in the United States. About 18.2 million American adults have coronary artery disease, making it the most common type of heart disease in the United States, according to the Centers for Disease Control and Prevention.
@@ -49,6 +59,8 @@ Heart disease is a catch-all phrase for a variety of conditions that affect the 
 The cause of coronary heart disease depends on the type. Coronary artery disease is often caused by cholesterol, a waxy substance that builds up inside the lining of the coronary arteries forming plaque. This buildup can partially or totally block blood flow in the large arteries of the heart. Coronary microvascular disease happens when the heart’s tiny blood vessels do not work normally. For most people, coronary heart disease is preventable with a heart-healthy lifestyle.
 
 Symptoms of coronary heart disease may be different from person to person even if they have the same type of coronary heart disease. However, because many people have no symptoms, they do not know they have coronary heart disease until they have chest pain, blood flow to the heart is blocked causing a heart attack, or the heart suddenly stops working, also known as cardiac arrest.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Models Used: 
 
@@ -89,6 +101,8 @@ Characteristics of kNN
 * It is also called a lazy learner algorithm because it does not learn from the training set immediately instead it stores the dataset and at the time of   classification, it performs an action on the dataset.
 * KNN algorithm at the training phase just stores the dataset and when it gets new data, then it classifies that data into a category that is much         similar to the new data.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ## Model Deployment:
 
 Deployed the model on streamlit cloud. 
@@ -96,6 +110,7 @@ The link for the same [Streamlit app](https://shourya306-supervised-machine-lear
 
 Link to Docker Image [Docker Image](https://hub.docker.com/repository/docker/shourya306/classification_project/general)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Conclusion:
 
