@@ -2,7 +2,7 @@
   <img src="CHD_image.png" alt="CHD_image.png" width="200px" height="200px">
 </p>
 
-# Cardiovascular Risk Prediction
+<h1 align="center"> Cardiovascular Risk Prediction </h1>
 
 ## Abstract:
 
